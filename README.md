@@ -1,6 +1,6 @@
 # Sistema de Fila de Alunos em Java
 
-Este é um projeto simples desenvolvido em Java com foco nos conceitos de **Programação Orientada a Objetos (POO)**. Foi elaborado como uma atividade prática da disciplina de POO, orientada pelo professor **Alisson Werner**.
+Este é um projeto simples desenvolvido em Java com foco nos conceitos de **Programação Orientada a Objetos (POO)**. Foi elaborado como uma atividade prática da disciplina, orientada pelo professor **Alisson Werner**.
 
 ## Objetivo
 
