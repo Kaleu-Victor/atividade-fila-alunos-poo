@@ -20,7 +20,8 @@ A estrutura de dados utilizada é baseada em um **vetor com redimensionamento di
 
 ## Estrutura do Projeto
 
-src/
+ src/
+ 
 ┣ Main.java
 ┣ Fila.java
 ┗ Aluno.java
@@ -28,11 +29,11 @@ src/
 ## Como Executar
 
 1. Clone este repositório:
-   ```bash
    git clone https://github.com/Kaleu-Victor/atividade-fila-alunos-poo.git
-2. Abra o projeto em sua IDE Java.
+   
+3. Abra o projeto em sua IDE Java.
 
-3. Compile e execute o arquivo Main.java.
+4. Compile e execute o arquivo Main.java.
 
 ## Créditos
 Aluno: Kaléu Victor de Lima Bezerra
@@ -41,4 +42,4 @@ Disciplina: Programação Orientada a Objetos
 
 Professor: Alisson Werner
 
-Instituição: ## Instituto Federal da Paraíba(IFPB) - Campus Monteiro
+Instituição: Instituto Federal da Paraíba(IFPB) - Campus Monteiro
